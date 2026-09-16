@@ -51,7 +51,7 @@ terraform plan -var-file="../env/dev.tfvars" -out="dev.tfplan"
 terraform apply "dev.tfplan"
 ```
 
-!\[Powershell ISE](pic01.jpg)
+![ACA Environment](pic01.jpg)
 
 ## Test
 
